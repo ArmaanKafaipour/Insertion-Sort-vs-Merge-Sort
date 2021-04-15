@@ -1,0 +1,10 @@
+C:\Users\Armaan\Documents\College\Spring 2021\CS 560\InsertionMergeSortPlotting\bin\Debug\InsertionMergeSortPlotting.exe.config
+C:\Users\Armaan\Documents\College\Spring 2021\CS 560\InsertionMergeSortPlotting\bin\Debug\InsertionMergeSortPlotting.exe
+C:\Users\Armaan\Documents\College\Spring 2021\CS 560\InsertionMergeSortPlotting\bin\Debug\InsertionMergeSortPlotting.pdb
+C:\Users\Armaan\Documents\College\Spring 2021\CS 560\InsertionMergeSortPlotting\obj\Debug\InsertionMergeSortPlotting.csprojAssemblyReference.cache
+C:\Users\Armaan\Documents\College\Spring 2021\CS 560\InsertionMergeSortPlotting\obj\Debug\InsertionMergeSortPlotting.Form1.resources
+C:\Users\Armaan\Documents\College\Spring 2021\CS 560\InsertionMergeSortPlotting\obj\Debug\InsertionMergeSortPlotting.Properties.Resources.resources
+C:\Users\Armaan\Documents\College\Spring 2021\CS 560\InsertionMergeSortPlotting\obj\Debug\InsertionMergeSortPlotting.csproj.GenerateResource.cache
+C:\Users\Armaan\Documents\College\Spring 2021\CS 560\InsertionMergeSortPlotting\obj\Debug\InsertionMergeSortPlotting.csproj.CoreCompileInputs.cache
+C:\Users\Armaan\Documents\College\Spring 2021\CS 560\InsertionMergeSortPlotting\obj\Debug\InsertionMergeSortPlotting.exe
+C:\Users\Armaan\Documents\College\Spring 2021\CS 560\InsertionMergeSortPlotting\obj\Debug\InsertionMergeSortPlotting.pdb

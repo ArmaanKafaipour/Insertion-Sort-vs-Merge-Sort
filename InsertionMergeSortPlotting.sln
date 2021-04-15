@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionMergeSortPlotting", "InsertionMergeSortPlotting.csproj", "{5F71C77D-13E8-4243-9B95-2EF8D95150D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F71C77D-13E8-4243-9B95-2EF8D95150D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F71C77D-13E8-4243-9B95-2EF8D95150D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F71C77D-13E8-4243-9B95-2EF8D95150D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F71C77D-13E8-4243-9B95-2EF8D95150D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75E8A840-DE24-4C1A-9BD8-49356813D39B}
+	EndGlobalSection
+EndGlobal
